@@ -13,7 +13,6 @@ fn fibonacci() -> impl Iterator<Item = u32> {
 
 struct Fibonacci { prev_prev: u32, prev: u32 }
 
-
 impl Iterator for Fibonacci {
     type Item = u32;
 
