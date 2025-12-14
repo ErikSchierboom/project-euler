@@ -6,4 +6,3 @@ fn main() {
 
     println!("{difference_of_squares}")
 }
-

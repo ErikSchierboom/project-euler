@@ -19,4 +19,3 @@ fn main() {
 
     println!("{max_prime_factor}")
 }
-
